@@ -16,6 +16,6 @@ Require python along with matplotlib library.
 
 # Acknowledgments
 *	Output graphs are similar to images provided.
-sampling,complicated function adn fft.
+sampling,complicated function and fft.
 
 
